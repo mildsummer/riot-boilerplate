@@ -1,6 +1,6 @@
 # Customize
 /node_modules
-/dist
+/dist/javascripts
 *.DS_Store
 *.map
 npm-debug.log
