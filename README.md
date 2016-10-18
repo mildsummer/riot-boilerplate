@@ -11,7 +11,7 @@ Webpack
 
 ### development
 
-    npm start
+    npm run local
 
 then you can view on `http://localhost:8080/webpack-dev-server/`
 
